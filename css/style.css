@@ -1,0 +1,39 @@
+
+
+#main_container {
+  height: auto;
+  margin-top: 20px;
+ 
+}
+.container-fluid {
+  background-color: lightyellow}
+.flag {
+  width: 100%;
+  height: 200px;
+  padding: 0.1rem;
+  margin-bottom: 20px;
+
+}
+.flag img {
+    width: 100%;
+    height: 100%;
+}
+.infocountry {
+  font-size: 1rem;
+  margin-top: 3px;
+  padding-left: 10px;
+ 
+}
+
+.box {
+  width: 300px;
+  height: auto;
+  border: 1px dotted lightgreen;
+  margin-bottom: 20px;
+}
+
+h3{
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+}
